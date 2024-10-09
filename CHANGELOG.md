@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/yassineltayeb/semantic-release/compare/v1.1.1...v1.2.0) (2024-10-09)
+
+
+### Features
+
+* added new feature ([06797cd](https://github.com/yassineltayeb/semantic-release/commit/06797cdcdfe995d737fa9044c54519f8a47513f5))
+
 ## [1.1.1](https://github.com/yassineltayeb/semantic-release/compare/v1.1.0...v1.1.1) (2024-10-09)
 
 
