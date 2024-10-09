@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/yassineltayeb/semantic-release/compare/v1.1.0...v1.1.1) (2024-10-09)
+
+
+### Bug Fixes
+
+* bug fix ([113f55d](https://github.com/yassineltayeb/semantic-release/commit/113f55db4d81103f8a5b88865d390b4a101af08c))
+
 # [1.1.0](https://github.com/yassineltayeb/semantic-release/compare/v1.0.0...v1.1.0) (2024-10-09)
 
 
