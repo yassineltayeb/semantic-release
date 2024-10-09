@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/yassineltayeb/semantic-release/compare/v1.0.0...v1.1.0) (2024-10-09)
+
+
+### Bug Fixes
+
+* fixed and issue with js ([e3b7746](https://github.com/yassineltayeb/semantic-release/commit/e3b7746cc4061814a3a96ee00e6df5a55f722ea6))
+
+
+### Features
+
+* add new feature to js ([3e494d7](https://github.com/yassineltayeb/semantic-release/commit/3e494d7a17d5e6f61d789310be0bb69e87de326b))
+
 # 1.0.0 (2024-10-09)
 
 
