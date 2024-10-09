@@ -4,3 +4,4 @@ console.log('bug fix');
 console.log('new feature');
 console.log('new major feature');
 console.log('new major feature!');
+console.log('new major feature!!');
