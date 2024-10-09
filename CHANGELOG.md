@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/yassineltayeb/semantic-release/compare/v1.2.0...v2.0.0) (2024-10-09)
+
+
+### Features
+
+* migrate authentication module to new API ([b4c46f6](https://github.com/yassineltayeb/semantic-release/commit/b4c46f6baefbf516b9ecf0b75c09be95660a776f))
+
+
+### BREAKING CHANGES
+
+* The old authentication API has been removed and replaced with a new one.
+
 # [1.2.0](https://github.com/yassineltayeb/semantic-release/compare/v1.1.1...v1.2.0) (2024-10-09)
 
 
